@@ -1,22 +1,22 @@
 # Salsabeel Alfayoumi
 
-I am a Computer Engineering graduate working at the intersection of Python, data, and applied AI. I enjoy turning raw information into practical systems—from analytical dashboards and decision-support tools to NLP applications and deep-learning models.
+I am a Computer Engineering graduate focused on building practical systems with Python, applied AI, and data analysis. My interests include machine learning, human–machine interaction, automation, and intelligent systems that connect software with real-world problems.
 
 ## Selected work
 
-- **[Python BI & Decision Support System](https://github.com/salfayoumi/python-bi-reporting-system)** — A bilingual analytics system for KPI monitoring, customer segmentation, revenue forecasting, automated recommendations, dashboards, and Excel reporting.
-- **[Book Review Analyzer & Recommender](https://github.com/salfayoumi/book-review-analyzer)** — An NLP application trained on 20,000 reviews, combining sentiment classification with mood-based recommendations and a Streamlit interface.
 - **[Hand Gesture Recognition](https://github.com/salfayoumi/Hand-Gesture-Recognition-with-a-CNN-RNN-Hybrid-Module)** — A hybrid CNN–RNN model for classifying hand gestures from sEMG signals, achieving 97.9% accuracy.
+- **[Book Review Analyzer & Recommender](https://github.com/salfayoumi/book-review-analyzer)** — An NLP application trained on 20,000 reviews, combining sentiment classification with mood-based recommendations and a Streamlit interface.
+- **[Python BI & Decision Support System](https://github.com/salfayoumi/python-bi-reporting-system)** — A bilingual Python application for data validation, segmentation, forecasting, automated recommendations, dashboards, and reporting.
 
 ## Toolkit
 
-**Data:** Python, SQL, MySQL, Pandas, NumPy, Plotly  
-**Machine learning:** Scikit-learn, TensorFlow, Keras, NLP, model evaluation  
-**Building:** Streamlit, REST APIs, Git, Linux, modular Python, documentation
+**Applied AI:** Machine learning, deep learning, NLP, signal processing, Scikit-learn, TensorFlow, Keras  
+**Python engineering:** Python, Streamlit, REST APIs, Git, Linux, modular design, documentation  
+**Data:** SQL, MySQL, Pandas, NumPy, Plotly, analysis, visualization
 
 ## Current direction
 
-I am developing deeper experience in data systems, production-oriented Python, and intelligent applications that connect software with real operational and physical systems.
+I am developing deeper experience in production-oriented Python, applied AI, industrial intelligence, robotics, and data-driven systems.
 
 ## Elsewhere
 
