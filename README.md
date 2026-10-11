@@ -1,25 +1,33 @@
 # Salsabeel Alfayoumi
 
-I am a Computer Engineering graduate focused on building practical systems with Python, applied AI, and data analysis. My interests include machine learning, multilingual AI, human–machine interaction, automation, and intelligent systems that connect software with real-world problems.
+**Junior Python Developer | Computer Engineering Graduate**
+
+I build Python APIs, data-processing workflows and analytics applications. My projects use FastAPI, Pandas, automated checks and Docker where appropriate, with implementation details and evaluation limits documented.
+
+I completed two remote Python/data internships at KivaCRM. During the July–August 2026 placement, I built a modular application for synthetic CRM data validation, KPI calculations, segmentation, baseline forecasting and bilingual HTML/Excel reporting.
+
+**Open to full-time junior Python development and data roles.** Based in Trabzon, Türkiye; open to relocation within Türkiye and remote roles that can hire someone based here. I work in Arabic, English and Turkish.
 
 ## Selected work
 
-- **[Multilingual Document Intelligence](https://github.com/salfayoumi/multilingual-document-intelligence)** — A citation-first system for Arabic, Turkish, and English documents, combining dense retrieval with BM25 and returning traceable evidence through Streamlit and FastAPI.
-- **[Industrial Sensor Intelligence](https://github.com/salfayoumi/industrial-sensor-intelligence)** — An anomaly-detection system for multivariate equipment telemetry, with time-series features, an Isolation Forest model, Streamlit dashboard, FastAPI service, tests, CI, and Docker.
-- **[Hand Gesture Recognition](https://github.com/salfayoumi/Hand-Gesture-Recognition-with-a-CNN-RNN-Hybrid-Module)** — Deep-learning classification of hand gestures from multichannel sEMG signals, achieving approximately 97.9% accuracy.
-- **[Book Review Analyzer & Recommender](https://github.com/salfayoumi/book-review-analyzer)** — An NLP application trained on 20,000 reviews, combining sentiment classification with mood-based recommendations and a Streamlit interface.
-- **[Python Data Analytics & Decision Support](https://github.com/salfayoumi/python-bi-reporting-system)** — A modular bilingual Python application for validation, segmentation, forecasting, explainable recommendations, dashboards, and reporting.
+| Project | What it demonstrates | Inspect the work |
+|---|---|---|
+| **Turkey Fuel Prices API** | Packaged FastAPI MVP converting official EPDK reports into typed JSON, with validation, caching and historical queries. | [Project details](https://salfayoumi.github.io/projects/turkey-fuel-prices/) · [Source ZIP](https://salfayoumi.github.io/assets/downloads/turkey-fuel-prices-api.zip) |
+| **Bilingual Decision Support System** | Modular Python validation, KPIs, segmentation, three-month baseline forecasts and English/Turkish HTML/Excel reports using synthetic CRM data. | [Repository](https://github.com/salfayoumi/python-bi-reporting-system) |
+| **Multilingual Document Intelligence** | Document retrieval with cited evidence. Semantic mode combines multilingual MiniLM embeddings with BM25; the offline fallback uses character n-grams. Includes tests, CI and a small synthetic evaluation set. | [Repository](https://github.com/salfayoumi/multilingual-document-intelligence) · [Demo](https://multilingual-document-intelligence.streamlit.app/) |
+| **Industrial Sensor Intelligence** | Isolation Forest anomaly detection on five synthetic sensor streams and four simulated fault types, with an API, dashboard, tests, CI and Docker. | [Repository](https://github.com/salfayoumi/industrial-sensor-intelligence) |
+| **sEMG Hand Gesture Recognition** | Academic signal-processing and deep-learning study using four-channel recordings from 40 participants. The historical evaluation split is not documented in the public repository. | [Project documentation](https://github.com/salfayoumi/Hand-Gesture-Recognition-with-a-CNN-RNN-Hybrid-Module) |
+| **Book Review Analyzer** | TF-IDF/logistic-regression sentiment baseline on 20,000 sampled reviews, with keyword-based mood recommendations and a Streamlit interface. | [Repository](https://github.com/salfayoumi/book-review-analyzer) |
 
 ## Toolkit
 
-**Applied AI:** Machine learning, deep learning, hybrid retrieval, anomaly detection, NLP, signal processing, Scikit-learn, TensorFlow, Keras  
-**Python engineering:** Python, FastAPI, Streamlit, REST APIs, testing, CI, Docker, Git, Linux  
-**Data:** SQL, MySQL, Pandas, NumPy, Plotly, analysis, visualization
+**Python engineering:** Python, FastAPI, REST APIs, Streamlit, automated testing, CI, Docker, Git, Linux  
+**Data:** Pandas, NumPy, Plotly, OpenPyXL, validation, visualization, SQL/MySQL fundamentals  
+**Applied ML:** scikit-learn, TensorFlow/Keras, document retrieval, NLP, anomaly detection, signal processing
 
-## Current direction
+## Contact
 
-I am developing deeper experience in production-oriented Python, applied AI, multilingual information systems, industrial intelligence, and data-driven software.
+[Email](mailto:salfayoumi98@gmail.com) · [Portfolio](https://salfayoumi.github.io/) · [CV](https://salfayoumi.github.io/assets/Salsabeel_Alfayoumi_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/salsabeel-alfayoumi-4a04b53b9/)
 
-## Elsewhere
+Employment in Türkiye requires an employer work-permit application. Hiring-process information is available on request.
 
-[Portfolio](https://salfayoumi.github.io/) · [LinkedIn](https://www.linkedin.com/in/salsabeel-alfayoumi-4a04b53b9/)
